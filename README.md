@@ -19,9 +19,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F7BBF0&width=200&lines=✎..+Socials)](https://git.io/typing-svg)
 
-[<img width="155" height="150" alt="instagram" src="https://github.com/user-attachments/assets/a95b2f43-d424-4410-8674-ed66e53988bb"/>](https://instagram.com/frazzotart)[<img width="155" height="150" alt="youtube" src="https://github.com/user-attachments/assets/c6c35e97-e315-455b-a080-cc8ddd02083a"/>](https://www.youtube.com/@frazzot8273)[<img width="155" height="150" alt="patreon" src="https://github.com/user-attachments/assets/7891f97d-3947-407d-9848-ed4f66ddb707"/>](https://patreon.com/Frazzot)[<img width="155" height="150" alt="artstation" src="https://github.com/user-attachments/assets/4c49d818-75f9-4868-b026-8e0b99899075"/>](https://artstation.com/Frazzot)[<img width="155" height="150" alt="deviantart" src="https://github.com/user-attachments/assets/82cc16dc-a0fa-4a2c-a0d3-d1a54f2d88fc"/>](https://deviantart.com/Frazzot)[<img width="155" height="150" alt="x" src="https://github.com/user-attachments/assets/01fef8ff-b4b4-4ef7-aefb-06261a1ca495"/>](https://x.com/Frazzot)
+[<img width="140" height="135" alt="instagram" src="https://github.com/user-attachments/assets/a95b2f43-d424-4410-8674-ed66e53988bb"/>](https://instagram.com/frazzotart)[<img width="140" height="135" alt="youtube" src="https://github.com/user-attachments/assets/c6c35e97-e315-455b-a080-cc8ddd02083a"/>](https://www.youtube.com/@frazzot8273)[<img width="140" height="135" alt="patreon" src="https://github.com/user-attachments/assets/7891f97d-3947-407d-9848-ed4f66ddb707"/>](https://patreon.com/Frazzot)[<img width="140" height="135" alt="artstation" src="https://github.com/user-attachments/assets/4c49d818-75f9-4868-b026-8e0b99899075"/>](https://artstation.com/Frazzot)[<img width="140" height="135" alt="deviantart" src="https://github.com/user-attachments/assets/82cc16dc-a0fa-4a2c-a0d3-d1a54f2d88fc"/>](https://deviantart.com/Frazzot)[<img width="140" height="135" alt="x" src="https://github.com/user-attachments/assets/01fef8ff-b4b4-4ef7-aefb-06261a1ca495"/>](https://x.com/Frazzot)
 
-
+<img width="1788" height="147" alt="image" src="https://github.com/user-attachments/assets/b44bfb66-69a6-4679-8f9e-cb832b15ff5b" />
 
 
 
