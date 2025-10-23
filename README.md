@@ -1,7 +1,7 @@
 <img width="1788" height="147" alt="image" src="https://github.com/user-attachments/assets/b44bfb66-69a6-4679-8f9e-cb832b15ff5b" />
 <img width="2000" height="150" alt="divider_pink1" src="https://github.com/user-attachments/assets/1a1c5536-9e7c-400e-96e8-d38d067fe1ee" />
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=F7BBF0&width=474&lines=Hi%2C+I'm+Ida+Franz%C3%A9n+Karlsson;Computer+engineering+student+and+artist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7BBF0&width=500&lines=I'm+Ida+Franz%C3%A9n+Karlsson;Computer+engineering+student+%26+artist)](https://git.io/typing-svg)
 
 >I’m a 24-year-old artist and student based in Gothenburg, Sweden. With a degree in Game Art
 >and a background in various digital technologies, I create digital art with both creative and
