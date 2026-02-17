@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F7BBF0&width=500&lines=I'm+Ida+Franz%C3%A9n+Karlsson;Computer+engineering+student+%26+artist)](https://git.io/typing-svg)
 
->I’m a 24-year-old artist and student based in Gothenburg, Sweden. With a degree in Game Art
+>I’m a 25-year-old artist and student based in Gothenburg, Sweden. With a degree in Game Art
 >and a background in various digital technologies, I create digital art with both creative and
 >technical intent. I also enjoy web development, hit the gym now and then, and frequently get
 >lost in video games.
